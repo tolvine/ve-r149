@@ -1,0 +1,9 @@
+{
+  "name": "ve-r149-diag",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node diag.test.js",
+    "build": "node -e \"console.log('build ok')\""
+  }
+}
